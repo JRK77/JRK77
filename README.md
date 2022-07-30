@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jeremy
 - 👀 I’m interested in full-stack dev
-- 🌱 I’m currently learning to code on codecademy. I have completed beginner and intermediate Python 3 and I'm now working on the full-stack engineer career path. I currently have exposure to HTML, CSS, JavaScript, Python, and SQL, along with Git, GitHub, and VS Code
-- 💞️ I would like to join a small/medium team so that I can gain exposure to the full-stack, while making a meaningful contribution
-- 📫 How to reach me: jeremykeeling@hotmail.co.uk
+- 🌱 I’m currently learning to code on codecademy. I have completed beginner and intermediate Python 3 and I'm now working on the full-stack engineer career path alongside learning C# and Java. I currently have exposure to HTML, CSS, JavaScript, Python, SQL, C#, Java, along with Git, GitHub, VS Code, and ASP.NET
+- 💞️ I have been offered my dream job as an apprentice full-stack engineer with an amazing organisation, beginning in September 2022
+- 📫 How to reach me: https://www.linkedin.com/in/jeremy-keeling-2696a2161/
 
 <!---
 JRK77/JRK77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
